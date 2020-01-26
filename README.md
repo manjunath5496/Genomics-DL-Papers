@@ -10,7 +10,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(4).pdf" style="text-decoration:none;">Automatic chemical design using a data-driven continuous representation of molecules</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(5).pdf" style="text-decoration:none;">Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(6).pdf" style="text-decoration:none;">Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(7).pdf" style="text-decoration:none;">Deep Learning for Population Genetic Inference</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(7).PDF" style="text-decoration:none;">Deep Learning for Population Genetic Inference</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(8).pdf" style="text-decoration:none;">Visualizing and Understanding Convolutional Networks</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Proteins-ML-Papers/blob/master/pml(9).pdf" style="text-decoration:none;">DNN Applications to Bioinformatics</a></b></li>
